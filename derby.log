@@ -1,0 +1,16 @@
+Wed Jun 12 18:41:28 EEST 2024 : Сетевой сервер Apache Derby Network Server - 10.16.1.1 - (1901046) запущен и готов принимать соединения на порту 1527 на {3} 
+----------------------------------------------------------------
+Wed Jun 12 18:41:28 EEST 2024:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): экземпляр a816c00e-0190-0d1c-7491-000012cc6df5
+в каталоге базы данных C:\Users\JULJA\Desktop\PD1_Malins\contact jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.9+11-LTS-201
+user.dir=C:\Users\JULJA\Desktop\db-derby-10.16.1.1-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\JULJA\Desktop\PD1_Malins
+Запущен загрузчик классов базы данных - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 13 00:41:50 EEST 2024: Shutting down Derby engine
