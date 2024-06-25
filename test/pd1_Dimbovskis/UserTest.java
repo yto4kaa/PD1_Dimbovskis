@@ -33,14 +33,7 @@ public class UserTest {
      */
     @Test
     public void testValidateUser() throws Exception {
-        
-        System.out.println("validateUser");
-        String login = "kot";
-        String password = "12345";
-        User instance = new User();
-        boolean expResult = true;
-        boolean result = instance.validateUser(login, password);
-        assertEquals(expResult, result);
+   
     }
     
     

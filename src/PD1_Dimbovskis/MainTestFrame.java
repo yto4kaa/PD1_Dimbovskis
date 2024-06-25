@@ -927,7 +927,7 @@ public class MainTestFrame extends javax.swing.JFrame {
         jPanel11.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel50.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jLabel50.setText("Bioloģijas tests ir pabeigts ");
+        jLabel50.setText("Fizikas tests ir pabeigts ");
 
         jLabel51.setText("Lietotaja punkti:");
 
@@ -970,7 +970,7 @@ public class MainTestFrame extends javax.swing.JFrame {
                         .addComponent(jButton16)))
                 .addContainerGap())
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel11Layout.createSequentialGroup()
-                .addGap(0, 32, Short.MAX_VALUE)
+                .addGap(0, 62, Short.MAX_VALUE)
                 .addComponent(jLabel50)
                 .addGap(42, 42, 42))
         );
